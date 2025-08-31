@@ -4,6 +4,12 @@ clipscreen is a simple application that creates a virtual monitor that mirrors a
 
 Why's this useful? You can use any screen sharing tool (Google Meet, Microsoft Teams, Jitsi Meet, etc.) to share the virtual monitor instead of your entire screen. No need to share individual windows and having to switch between them, just move any window you want to share into the green border.
 
+> _this project is sponsored by_
+> ### Recall.ai - API for desktop recording [<img src="https://cdn.prod.website-files.com/620d732b1f1f7b244ac89f0e/66b294e51ee15f18dd2b171e_recall-logo.svg" align="right">](https://www.recall.ai/?utm_source=github&utm_medium=sponsorship&utm_campaign=splitbrain-clipscreen)
+>
+> If you’re looking for a hosted desktop recording API, consider checking out [Recall.ai](https://www.recall.ai/?utm_source=github&utm_medium=sponsorship&utm_campaign=splitbrain-clipscreen), an API that records Zoom, Google Meet, Microsoft Teams, in-person meetings, and more.
+
+
 ## Compile
 
 Ensure you have the following installed on your system:
